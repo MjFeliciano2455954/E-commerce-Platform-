@@ -1,2 +1,2 @@
 # E-commerce-Platform-
-A fashion style shop or ordering system 
+A fashion style shop and ordering system 
